@@ -14,7 +14,7 @@ Redmine::Plugin.register :assign_current_user do
   name 'Assign current user plugin'
   author 'team888'
   description 'Assign current login user to specified custom field on new Issue ticket.'
-  version '0.2.0'
+  version '0.3.0'
   url 'https://github.com/team888/redmine-assign_current_user-plugin'
   author_url 'https://github.com/team888'
   
