@@ -1,5 +1,6 @@
 # English strings go here for Rails i18n
 en:
     view:
-        custom_field_name: "Custum field name to assign current login user"
+        assign_current_user:
+            custom_field_name: "Custum field name to assign current login user"
   # my_label: "My label"

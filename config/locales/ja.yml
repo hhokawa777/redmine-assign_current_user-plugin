@@ -1,5 +1,6 @@
 # English strings go here for Rails i18n
 ja:
     view:
-        custom_field_name: "現在のログインユーザを割り当てるカスタムフィールド名"
+        assign_current_user:
+            custom_field_name: "現在のログインユーザを割り当てるカスタムフィールド名"
   # my_label: "My label"
