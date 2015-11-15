@@ -6,7 +6,7 @@ Assign current login user to specified custom field on new Issue ticket.
 1. Copy extracted plugin folder to redmine plugin folder
 2. Rename copied plugin folder to "assign_current_user"
 3. Restart your Redmine web servers
-4. [Administration] > [Plugins], click [Configure] on Assign current user plugin, specify custum field name which you want to assign current user
+4. \[Administration] > [Plugins], click [Configure] on Assign current user plugin, specify custum field name which you want to assign current user
 
 == Usage
 1. When you click [New Issue] menu link, current login user will be set to target custom field.
